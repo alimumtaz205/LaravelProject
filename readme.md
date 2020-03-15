@@ -7,12 +7,12 @@
 
 1. Install Laravel 5.8 <br>
 2. Vue.JS Pakage <br>
-3. MySql database <br>
+3. mySql database <br>
 4. Atom or any other text editor <br>  
 7. XAMPP or any other Server <br>
 
 =>	Open 'XAMPP Control Panel' and start 'Apache' and 'mySQL' <br>
-=>	Import database file 'database.sql' to mySQL <br>
+=>	Import database file 'database.sql' to mySQL server <br>
 =>	Open 'Google Crome' or any other browser. <br>
 =>  Import databse file 'database.sql' from the folder. <br>
 =>	Open 'Command Prompt' of your window and Start server by using command 'php artisan serve' <br>
